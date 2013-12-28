@@ -6,8 +6,8 @@
 
 ------
 涉及的外部依赖：
-*org.json
-*java-websocket
+*	org.json
+*	java-websocket
 
 更新于2013-12-28
 
